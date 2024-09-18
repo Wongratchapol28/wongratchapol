@@ -1,0 +1,36 @@
+body {
+		background-color: #b2cbde;
+		color: black;
+		text-align: center;
+	}
+	h1{
+		front-size: 200px;
+		text-align: center;
+	}
+	h2{
+		front-size: 100px;
+		text-align: center;
+	}
+	.info{
+		font-size: 20px;
+		text-align: left;
+	}
+	.Port{
+		background-color: #93baee;
+		margin-left: 30%;
+		margin-right: 30%;
+	}
+	p{
+		display:  inline-block;
+		padding-left: 70px;
+	}
+	a{
+		text-decoration-line: none;
+		color: #304674;
+	}
+	img{
+		padding-left: 5%;
+		padding-right: 6%;
+		width: 17%;
+	}
+	
