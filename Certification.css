@@ -1,24 +1,29 @@
-body {
+body{
 		background-color: #b2cbde;
 		color: black;
 		text-align: center;
-	}
-	.Port{
+}
+.Port{
 		background-color: #93baee;
 		margin-left: 30%;
 		margin-right: 30%;
-	}
-	p{
+}
+p{
 		display:  inline-block;
 		padding-left: 70px;
-	}
-	a{
+}
+a{
 		text-decoration-line: none;
 		color: #304674;
-	}
-	img{
+}
+img{
 		padding-left: 5%;
 		padding-right: 6%;
 		width: 30%;
-	}
-	
+}
+.head{
+	font-size: 30px;
+}
+.subhead{
+	font-size: 25px;
+}
